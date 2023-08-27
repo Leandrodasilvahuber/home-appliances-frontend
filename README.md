@@ -13,7 +13,6 @@ Front-end example built in Vue, consumes an api in PHP, registers household appl
 ## Project Setup
 
 ```
-* configure the ".env" file
 * npm install
 * npm run start
 ```
