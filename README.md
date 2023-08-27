@@ -4,7 +4,7 @@
   </a>
 </p>
 
-## Project Description
+## About
 
 ```
 Front-end example built in Vue, consumes an api in PHP, registers household appliances. and their respective voltages
